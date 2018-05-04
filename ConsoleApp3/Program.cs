@@ -4,6 +4,7 @@ using Microsoft.Extensions.Options;
 using System.IO;
 using System.Linq;
 using System.Data;
+using DAL;
 
 namespace ConsoleApp3
 {
@@ -12,7 +13,8 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
-            Test();
+            //Test();
+            TestForDAL();
             Console.WriteLine("******************");
             //localHostTest();
             //var builder = new ConfigurationBuilder()
@@ -21,7 +23,16 @@ namespace ConsoleApp3
             //IConfigurationRoot configuration = builder.Build();
             //Console.WriteLine(configuration.GetConnectionString("user").ToString());
         }
-        
+        static void TestForDAL()
+        {
+            using (var db = new CADBContext())
+            {
+                foreach (var item in db.CaseTypes)
+                {
+                    Console.WriteLine($"case type is: {item.name}");
+                }
+            }
+        }
         static void Test()
         {
             using (var db = new CADBContext())
