@@ -1,0 +1,7 @@
+C:\MLGCentral\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\MLGCentral\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\MLGCentral\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\MLGCentral\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\MLGCentral\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\MLGCentral\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\MLGCentral\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,11 @@
+C:\MLGCentral\TestFunctions\bin\Debug\netcoreapp2.0\TestFunctions.deps.json
+C:\MLGCentral\TestFunctions\bin\Debug\netcoreapp2.0\TestFunctions.runtimeconfig.json
+C:\MLGCentral\TestFunctions\bin\Debug\netcoreapp2.0\TestFunctions.runtimeconfig.dev.json
+C:\MLGCentral\TestFunctions\bin\Debug\netcoreapp2.0\TestFunctions.dll
+C:\MLGCentral\TestFunctions\bin\Debug\netcoreapp2.0\TestFunctions.pdb
+C:\MLGCentral\TestFunctions\obj\Debug\netcoreapp2.0\TestFunctions.csprojResolveAssemblyReference.cache
+C:\MLGCentral\TestFunctions\obj\Debug\netcoreapp2.0\TestFunctions.csproj.CoreCompileInputs.cache
+C:\MLGCentral\TestFunctions\obj\Debug\netcoreapp2.0\TestFunctions.AssemblyInfoInputs.cache
+C:\MLGCentral\TestFunctions\obj\Debug\netcoreapp2.0\TestFunctions.AssemblyInfo.cs
+C:\MLGCentral\TestFunctions\obj\Debug\netcoreapp2.0\TestFunctions.dll
+C:\MLGCentral\TestFunctions\obj\Debug\netcoreapp2.0\TestFunctions.pdb

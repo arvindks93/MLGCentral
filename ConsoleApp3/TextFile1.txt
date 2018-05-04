@@ -1,0 +1,84 @@
+﻿https://blog.bitscry.com/2017/05/30/appsettings-json-in-net-core-console-app/
+EF, Design Patterns, Architectural Patterns, Anti Patterns, OOPS, TDD, Git, Agile/Scrum, TFS, UML, SOA, Microservices, REST, WebAPI
+
+
+5-8+ years of proven development experience
+Experience with C# development
+Experience leading a technical delivery team
+Knowledge of ASP.NET MVC, Spring MVC, PHP, or other dynamic web server environments
+Skills programming in modern JavaScript and using CSS + HTML styling + layout for web pages
+Experience with Microsoft SQL Server or other SQL-based RDMS or noSQL
+Experience with ORM tools such as NHiberate and Entity Framework
+Strong background in Object-Oriented Design and SOLID principles
+Knowledge of Services Oriented Architectures, RESTful Interfaces & Enterprise Application Patterns
+Knowledge of the Principles & Patterns of Agile Software
+Experience developing on either iOS using Swift/ObjectiveC or Android using Java.
+Experience with software quality, testing procedures and build automation tools
+Experience with to Unit Testing, Mocking and Dependency Injection frameworks
+Working knowledge of upcoming ECMAScript 6 features, modern HTML5 techniques and CSS3.
+Experience with JavaScript frameworks, including jQuery, jQuery Mobile, Node, Knockout, Angular, Ember, Backbone, Bootstrap, D3
+Experience working with teams in source code controlled environments using TFS, Git, SVN, or other popular systems
+Experience working in an Agile/Scrum environment
+Experience estimating software solutions
+Technology consulting or similar business experience a plus
+
+ULTIMATE
+
+Primary Duties and Responsibilities:
+
+Experience with enterprise level applications such as ERP systems, JIRA, etc.
+Responsible for running and implementing continuous improvement initiatives
+Manage the Development process for your team (Kanban)
+Make sure your team implements any department initiatives including all the high performing team behaviors
+Remove impediments
+Responsible for facilitating team communication regarding team issues
+Responsible for maintaining team/Kanban statistics
+Required Qualifications:
+
+Proficiency in the Agile development life cycle.
+Proficiency in Kanban and Scrum methodologies
+Proven technical problem solving skills
+Experience driving positive change within the team via process manipulation
+Experience setting goals and focusing on measurable results
+Ability to be a leader within the team as well as someone who is able to represent the team within the company
+Ability to build and maintain relationships with other groups within the organization
+Excellent collaboration skills.
+Must be able build consensus and bring key players on board towards a desired direction.
+Must be able to think strategically as well as tactically to achieve long term goals.
+Must be able to make quality hires. Must have excellent interviewing skills.
+Ability to deal constructively with conflict and feedback.
+Preferred Qualifications:
+
+Familiarity with distributed services
+Familiarity with SaaS deployments. Knowledge of IaaS and PaaS.
+Familiarity with CI/CD.
+Familiarity with zero down-time upgrades
+
+Principal Architect
+
+Primary Responsibilities:
+
+Perform architectural analysis and design for systems spanning the Ultimate Software products and services portfolio
+Partner with various business stakeholders and technology leaders to translate program requirements into technical solutions and system designs
+Document and communicate designs, estimates, and implementation plans to program stakeholders
+Collaborate with other members of the Core Technologies Services team, including architects and technical leads, to evaluate solutions and gain consensus on technical direction
+Research, design, test, and evaluate new technologies and vendor solutions
+Implement POCs and pair with technical leads on implementations
+Maintain an organization-wide view of current and future business and application architecture to provide solutions that integrate into the overall architectural vision and strategy
+Provide leadership and expertise in the development of standards, architectural governance, design patterns, and practices
+Requirements:
+
+10-12+ years of technical leadership and architecture experience in software development
+6-8+ years’ experience designing and delivering large scale distributed systems (ideally using modern SOA patterns and REST)
+Solid understanding of security/access control, scalability, high availability, and concurrency patterns
+Flexibility and creativity in solution design - including leveraging emerging technologies
+Excellent written and verbal communication skills
+Ability to clearly explain and justify ideas when faced with competing alternatives 
+Ability to communicate and apply common architectural design patterns across a wide range of technical problems
+Prior experience with at least one major IaaS and/or PaaS technology (OpenStack, AWS, Heroku, etc.)
+Prior experience with relational and non-relational database technologies (MongoDB, Cassandra)
+Prior experience with agile development, continuous delivery, and DevOps
+Strong understanding of infrastructure and related technologies (hardware, virtualization, networking)
+Proficient in at least one static OO language (C#, Java)
+Proficient in at least one dynamic language (JavaScript, Python, Node.js a plus) 
+Proficient in current development tools (Visual Studio, Eclipse, Git, SVN)

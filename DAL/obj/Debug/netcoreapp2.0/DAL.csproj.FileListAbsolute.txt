@@ -1,0 +1,9 @@
+C:\MLGCentral\DAL\bin\Debug\netcoreapp2.0\DAL.deps.json
+C:\MLGCentral\DAL\bin\Debug\netcoreapp2.0\DAL.dll
+C:\MLGCentral\DAL\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\MLGCentral\DAL\obj\Debug\netcoreapp2.0\DAL.csprojResolveAssemblyReference.cache
+C:\MLGCentral\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
+C:\MLGCentral\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
+C:\MLGCentral\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
+C:\MLGCentral\DAL\obj\Debug\netcoreapp2.0\DAL.dll
+C:\MLGCentral\DAL\obj\Debug\netcoreapp2.0\DAL.pdb

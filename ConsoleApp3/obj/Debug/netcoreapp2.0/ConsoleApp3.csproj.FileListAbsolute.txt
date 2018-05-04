@@ -1,0 +1,12 @@
+C:\MLGCentral\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.deps.json
+C:\MLGCentral\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.runtimeconfig.json
+C:\MLGCentral\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.runtimeconfig.dev.json
+C:\MLGCentral\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.dll
+C:\MLGCentral\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\MLGCentral\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\MLGCentral\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\MLGCentral\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.AssemblyInfo.cs
+C:\MLGCentral\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.pdb
+C:\MLGCentral\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.dll
+C:\MLGCentral\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.pdb
+C:\MLGCentral\ConsoleApp3\bin\Debug\netcoreapp2.0\appsettings.json
