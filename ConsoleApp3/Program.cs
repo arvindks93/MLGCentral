@@ -27,9 +27,20 @@ namespace ConsoleApp3
         {
             using (var db = new CADBContext())
             {
-                foreach (var item in db.CaseTypes)
+                var cases = db.Cases;
+                var casetypes = db.CaseTypes;
+                var query = from c in cases
+                            join ct in casetypes on c.case_type_id equals ct.case_type_id
+                            where c.case_type_id == 11 && c.create_dt > DateTime.Parse("05/01/2018")
+                            select new
+                            {
+                                case_num = c.case_num,
+                                type = ct.name,
+                                c.create_dt
+                            };
+                foreach (var item in query)
                 {
-                    Console.WriteLine($"case type is: {item.name}");
+                    Console.WriteLine($"case number: {item.case_num}, case type: {item.type}, create date: {item.create_dt}");
                 }
             }
         }

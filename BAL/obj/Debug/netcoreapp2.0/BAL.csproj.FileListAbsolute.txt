@@ -1,0 +1,11 @@
+C:\MLGCentral\BAL\bin\Debug\netcoreapp2.0\BAL.deps.json
+C:\MLGCentral\BAL\bin\Debug\netcoreapp2.0\BAL.dll
+C:\MLGCentral\BAL\bin\Debug\netcoreapp2.0\DAL.dll
+C:\MLGCentral\BAL\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\MLGCentral\BAL\obj\Debug\netcoreapp2.0\BAL.csproj.CoreCompileInputs.cache
+C:\MLGCentral\BAL\obj\Debug\netcoreapp2.0\BAL.AssemblyInfoInputs.cache
+C:\MLGCentral\BAL\obj\Debug\netcoreapp2.0\BAL.AssemblyInfo.cs
+C:\MLGCentral\BAL\bin\Debug\netcoreapp2.0\BAL.pdb
+C:\MLGCentral\BAL\obj\Debug\netcoreapp2.0\BAL.dll
+C:\MLGCentral\BAL\obj\Debug\netcoreapp2.0\BAL.pdb
+C:\MLGCentral\BAL\obj\Debug\netcoreapp2.0\BAL.csprojResolveAssemblyReference.cache

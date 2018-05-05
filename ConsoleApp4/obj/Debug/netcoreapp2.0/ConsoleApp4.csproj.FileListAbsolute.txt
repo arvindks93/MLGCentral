@@ -1,0 +1,15 @@
+C:\MLGCentral\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.deps.json
+C:\MLGCentral\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.runtimeconfig.json
+C:\MLGCentral\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.runtimeconfig.dev.json
+C:\MLGCentral\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.dll
+C:\MLGCentral\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.pdb
+C:\MLGCentral\ConsoleApp4\bin\Debug\netcoreapp2.0\BAL.dll
+C:\MLGCentral\ConsoleApp4\bin\Debug\netcoreapp2.0\DAL.dll
+C:\MLGCentral\ConsoleApp4\bin\Debug\netcoreapp2.0\BAL.pdb
+C:\MLGCentral\ConsoleApp4\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\MLGCentral\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\MLGCentral\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\MLGCentral\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\MLGCentral\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.AssemblyInfo.cs
+C:\MLGCentral\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.dll
+C:\MLGCentral\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.pdb
