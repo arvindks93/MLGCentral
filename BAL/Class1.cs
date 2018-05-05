@@ -16,7 +16,10 @@ namespace BAL
                 //var c = db.Cases.OrderByDescending(x=> x.create_dt>DateTime.Parse("05/01/2018") && x.case_type_id==6).ToList() ;                        
                 foreach (var item  in db.CaseTypes)
                 {
-                    Console.WriteLine($"case type:{item.case_type_id} and name:{item.name}");
+                    if (item.name.Contains("FL"))
+                    {
+                        Console.WriteLine($"case type:{item.case_type_id} and name:{item.name}");
+                    }
                 }
             }
         }
